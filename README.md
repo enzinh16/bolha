@@ -20,9 +20,14 @@ com feed, chat e gamificação leve para manter o engajamento.
 
 ## Integrantes do grupo
 
-- [Marco Antonio Ferreira Fonseca] — RM [566434]
-- [Nome completo] — RM [xxxxx]
-- [Nome completo] — RM [xxxxx]
+| Nome | RM |
+|------|----|
+| Auro Vanetti | RM563761 |
+| Enzo H. K. Nishida | RM565052 |
+| Renan Mano Otero | RM554911 |
+| Marco Antonio Ferreira Fonseca | RM566434 |
+| Bruno Soares de Santanna | RM562235 |
+| Enzo Yokokura Araujo | RM564177 |
 
 ## Documentação
 

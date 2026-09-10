@@ -1,28 +1,25 @@
-# 🫧 Bolha
+# 🫧 aBolha
 
-> Uma rede social de comunidades por afinidade — encontre sua bolha.
+> Uma rede social de comunidades por afinidade - crie e vive a sua bolha.
 
 ## Sobre o projeto
 
-**Bolha** é um aplicativo mobile que conecta pessoas em comunidades nichadas
-por interesse (games, animes, séries, esportes, hobbies, música, etc.), no
-estilo do antigo Amino, mas repensado para 2026: onboarding mais leve,
-visual mais atual, foco no público brasileiro e moderação simplificada.
+**aBolha** é um aplicativo mobile que conecta pessoas em comunidades de interesses semelhantes como: jogos, animes, séries, esportes, hobbies, música, etc. Semelhante ao antigo Amino (🕊️), entretanto com features e ambições maiores para um futuro orgânico ao aplicativo, já visando em: onboarding mais leve, visual mais atual, foco no público brasileiro, moderação simplificada.
 
 ## Proposta de valor
 
-Hoje quem quer viver de um nicho específico esbarra em dois extremos:
-o Discord, que exige já conhecer o servidor certo, e o Reddit/fóruns, que
-são pesados em texto e pouco convidativos para quem está começando.
-O Bolha resolve isso com **descoberta de comunidades por afinidade**:
-o usuário entra, diz o que curte, e o app já sugere as "bolhas" certas —
-com feed, chat e gamificação leve para manter o engajamento.
+Atualmente, os usuários que querem se adentrar a uma comunidade especifica na net se esbarra em dois extremos: o Discord, que exige já conhecer o servidor certo, e o Reddit/fóruns, que são pesados em texto e pouco convidativos para quem está começando.
+"aBolha" resolve isso com a prática de **descoberta de comunidades por afinidade**: o usuário entra, diz o que curte, e o app já sugere as "bolhas" de acordo com o perfil, assim gerando o feed (semelhante ao X/Twitter), posts, chats e uma gamificação para manter o engajamento em suas "bolhas".
 
 ## Integrantes do grupo
 
-- [Marco Antonio Ferreira Fonseca] — RM [566434]
-- [Nome completo] — RM [xxxxx]
-- [Nome completo] — RM [xxxxx]
+| Nome | RM |
+|------|----|
+| Auro Vanetti | RM563761 |
+| Renan Mano Otero | RM554911 |
+| Marco Antonio Ferreira Fonseca | RM566434 |
+| Bruno Soares de Santanna | RM562235 |
+| Enzo Yokokura Araujo | RM564177 |
 
 ## Documentação
 

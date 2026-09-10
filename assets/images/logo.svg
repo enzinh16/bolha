@@ -1,0 +1,58 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradiente do balão de chat -->
+    <linearGradient id="chatGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#DFF6FF" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#7FD1FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2196F3" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <!-- Gradientes das bolhas de sabão (radiais, com brilho) -->
+    <radialGradient id="bubbleBig" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#CDEFFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8FD8FF" stop-opacity="0.35"/>
+    </radialGradient>
+
+    <radialGradient id="bubbleMid" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#D9F3FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A6E1FF" stop-opacity="0.3"/>
+    </radialGradient>
+
+    <radialGradient id="bubbleSmall" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#E6F8FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#BEE9FF" stop-opacity="0.3"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Corpo do balão de chat -->
+  <path d="M60 165
+           L36 214
+           L92 170
+           L180 170
+           C204 170 224 150 224 126
+           L224 74
+           C224 50 204 30 180 30
+           L60 30
+           C36 30 16 50 16 74
+           L16 126
+           C16 150 34 168 60 168
+           Z"
+        fill="url(#chatGradient)"
+        stroke="#FFFFFF"
+        stroke-width="2"
+        stroke-opacity="0.6"/>
+
+  <!-- Bolhas de sabão dentro do balão -->
+  <circle cx="78" cy="98" r="30" fill="url(#bubbleBig)" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="1.5"/>
+  <circle cx="140" cy="82" r="20" fill="url(#bubbleMid)" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="1.5"/>
+  <circle cx="168" cy="118" r="14" fill="url(#bubbleSmall)" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="1.2"/>
+  <circle cx="120" cy="126" r="11" fill="url(#bubbleSmall)" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="1"/>
+
+  <!-- Pequenos brilhos extras para reforçar o efeito de sabão -->
+  <circle cx="68" cy="88" r="5" fill="#FFFFFF" opacity="0.85"/>
+  <circle cx="134" cy="75" r="3.5" fill="#FFFFFF" opacity="0.85"/>
+  <circle cx="164" cy="112" r="2.5" fill="#FFFFFF" opacity="0.85"/>
+</svg>

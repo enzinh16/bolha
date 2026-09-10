@@ -2,9 +2,8 @@
 
 ## 1. O problema
 
-Pessoas com interesses de nicho (um fandom específico, um jogo, um hobby
-pouco convencional) têm dificuldade de encontrar comunidades ativas e
-acolhedoras para conversar sobre aquilo. As opções atuais têm atrito:
+Pessoas com interesses de específicos (uma fandom , um jogo, um hobby, uma coincidência) têm dificuldade de encontrar comunidades ativas e
+acolhedoras para conversar sobre aquilo que os interessa. As opções atuais têm atrito:
 
 - **Discord**: exige já saber qual servidor procurar; não tem descoberta
   orgânica de comunidades novas.
@@ -18,8 +17,8 @@ acolhedoras para conversar sobre aquilo. As opções atuais têm atrito:
 
 - Jovens de 16 a 28 anos, usuários de smartphone, já habituados a redes
   sociais baseadas em interesse (TikTok, Twitter/X, Discord).
-- Pessoas que participam de fandoms, comunidades de jogos, k-pop, animes,
-  leitura, esportes de nicho ou hobbies específicos.
+- Pessoas que participam ou têm interesse em fandoms, comunidades de jogos, artistas ou bandas, animes,
+  livros, esportes ou até mesmo hobbies mais específicos.
 - Público majoritariamente brasileiro na fase inicial de lançamento.
 
 ## 3. Principais funcionalidades (MVP)
@@ -27,9 +26,9 @@ acolhedoras para conversar sobre aquilo. As opções atuais têm atrito:
 - **Onboarding por interesses**: no cadastro, o usuário escolhe temas/tags
   que gosta e recebe sugestões de comunidades ("bolhas") compatíveis.
 - **Criação e busca de comunidades**: qualquer usuário pode criar uma
-  bolha nova em torno de um tema, com nome, descrição e capa.
+  bolha nova em torno de um tema, com nome, descrição e capa (obviamente teremos algumas iniciais, mais a comunidade pode criar "bolhas" mais únicas de acordo com seus interesses).
 - **Feed por comunidade**: posts de texto/imagem dentro de cada bolha,
-  com curtidas e comentários.
+  com curtidas e comentários (futuramente com a implementação de um feed único para o usuário, misturando as "bolhas" que o mesmo participa mas com sinalização da onde se trata o post/imagem que aparece em seu feed).
 - **Chat**: conversas em grupo (por bolha) e mensagens privadas entre
   membros.
 - **Perfil e gamificação leve**: nível de participação e badges por
@@ -37,7 +36,6 @@ acolhedoras para conversar sobre aquilo. As opções atuais têm atrito:
 
 ## 4. Fora do escopo do MVP
 
-- Moderação automatizada por IA (moderação inicial será manual, feita
-  pelos criadores de cada bolha).
+- Moderação híbrida: metade automatizada por IA em casos menores e em casos mais críticos uma equipe de resolução de problemas (moderação inicial será apenas manual, sendo a macro realizada pela nossa equipe e já as micros {como assuntos que podem ser discutidos e abordagem} será pelos criadores de cada bolha).
 - Monetização (planejada, mas não implementada nesta fase).
 - Versão web — o foco inicial é mobile (Flutter, Android/iOS).

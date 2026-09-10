@@ -1,4 +1,4 @@
-# Documentação Inicial — Bolha
+# Documentação Inicial — aBolha 🫧
 
 ## 1. O problema
 

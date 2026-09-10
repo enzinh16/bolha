@@ -20,7 +20,7 @@ com feed, chat e gamificação leve para manter o engajamento.
 
 ## Integrantes do grupo
 
-- [Nome completo] — RM [xxxxx]
+- [Marco Antonio Ferreira Fonseca] — RM [566434]
 - [Nome completo] — RM [xxxxx]
 - [Nome completo] — RM [xxxxx]
 

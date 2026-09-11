@@ -46,7 +46,7 @@ película fina e translúcida de uma bolha — em vez de cores sólidas e
 opacas. O branco entra como brilho/destaque (reflexo de luz na bolha),
 não como cor de fundo neutra, semelhante ao Twitter porem com cores mais "vivas".
 
-<p align="center">
+<p>
   <img src="../assets/images/cores.png" width="300" alt="Logo">
 </p>
 
@@ -56,7 +56,7 @@ não como cor de fundo neutra, semelhante ao Twitter porem com cores mais "vivas
 - **Corpo de texto**: fonte sem serifa neutra e legível em telas pequenas
   (*Inter Extra Bold*)
 
-<p align="center">
+<p>
   <img src="../assets/images/tipografia.png" width="300" alt="Logo">
 </p>
 

@@ -27,10 +27,39 @@ Atualmente, os usuários que querem se adentrar a uma comunidade especifica na n
 - [Marca e identidade visual](docs/iden-visual.md) — naming, tom de voz, paleta e tipografia
 - [Pitch](docs/pitch.md) — ideia de venda, modelo de negócio e diferencial competitivo
 
+
+## Estrutura de Pastas
+
+```
+aBolha/
+├── app/               
+│   │   ├── android/
+|   |         ├── ...
+│   │   ├── assets/
+|   |         ├── ...
+│   │   ├── ios/
+|   |         ├── ...
+|   |   ├── lib/
+|   |         ├── ...
+│   |   ...
+|
+├── assets/imagens                        
+│   ├── logo.jpg
+|
+├── docs/
+│   ├── doc-init.md       
+│   ├── iden-visual.md   
+│   └── pitch.md
+│   
+│
+└── README.md
+```
+
+
 ## Projeto Flutter
 
-Estrutura inicial do app em `lib/`, com o tema visual da marca já aplicado
-e a tela inicial (splash/onboarding) rodando.
+Estrutura inicial do app, com o tema visual da marca já aplicado
+e a tela inicial rodando.
 
 ### Como rodar
 

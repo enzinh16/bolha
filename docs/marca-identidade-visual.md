@@ -32,9 +32,9 @@ proposta de valor central: pertencimento.
 
 | Uso | Cor | Hex |
 |---|---|---|
-| Primária (marca) | Azul-bolha | `#2196F3` |
-| Primária clara (gradiente/destaque) | Azul-céu translúcido | `#7FD1FF` |
-| Superfície da bolha (branco-transparente) | Branco-gelo | `#DFF6FF` |
+| Primária | Azul-bolha | `#2196F3` |
+| Secundária | Azul-céu translúcido | `#7FD1FF` |
+| Terciária | Branco-gelo | `#DFF6FF` |
 | Fundo (modo claro) | Azul quase branco | `#F0F9FF` |
 | Fundo (modo escuro) | Azul-noite | `#0D1B2A` |
 | Texto principal | Azul-grafite | `#12222E` |
@@ -48,9 +48,9 @@ não como cor de fundo neutra, semelhante ao Twitter porem com cores mais "vivas
 
 ## 4. Tipografia
 
-- **Títulos/logo**: fonte arredondada e amigável (*Poppins Bold*).
+- **Títulos/logo**: fonte arredondada e amigável (*Poppins Extra Bold*).
 - **Corpo de texto**: fonte sem serifa neutra e legível em telas pequenas
-  (*Inter*)
+  (*Inter Extra Bold*)
 
 ## 5. Logo
 

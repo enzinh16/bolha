@@ -14,25 +14,11 @@ class OnboardingScreen extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              // Logo (placeholder redondo com o "B" da marca até o SVG
-              // ser integrado com flutter_svg)
-              Container(
+              Image.asset(
+                'assets/images/logo.png',
                 width: 120,
                 height: 120,
-                decoration: const BoxDecoration(
-                  shape: BoxShape.circle,
-                  gradient: LinearGradient(
-                    colors: [BolhaColors.primary, BolhaColors.secondary],
-                    begin: Alignment.topLeft,
-                    end: Alignment.bottomRight,
-                  ),
-                ),
-                child: const Center(
-                  child: Text(
-                    "💬",
-                    style: TextStyle(fontSize: 56),
-                  ),
-                ),
+                fit: BoxFit.contain,
               ),
               const SizedBox(height: 24),
               Text(

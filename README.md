@@ -41,4 +41,4 @@ flutter run
 
 ## Status
 
-🚧 Checkpoint 4 — Idealização do App. ✔️
+🚧 Checkpoint 4 — Idealização do App. || Status: ✅

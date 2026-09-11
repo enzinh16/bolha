@@ -23,8 +23,8 @@ Atualmente, os usuários que querem se adentrar a uma comunidade especifica na n
 
 ## Documentação
 
-- [Documentação inicial](docs/documentacao-inicial.md) — problema, público-alvo e MVP
-- [Marca e identidade visual](docs/marca-identidade-visual.md) — naming, tom de voz, paleta e tipografia
+- [Documentação inicial](docs/doc-init.md) — problema, público-alvo e MVP
+- [Marca e identidade visual](docs/iden-visual.md) — naming, tom de voz, paleta e tipografia
 - [Pitch](docs/pitch.md) — ideia de venda, modelo de negócio e diferencial competitivo
 
 ## Projeto Flutter
@@ -41,5 +41,4 @@ flutter run
 
 ## Status
 
-🚧 Checkpoint 4 — Idealização do App. Próximos passos: protótipo navegável
-das telas de comunidade e feed.
+🚧 Checkpoint 4 — Idealização do App. ✔️

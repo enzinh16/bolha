@@ -60,5 +60,6 @@ cada bolha de sabão com um brilho branco translúcido, reforçando a
 sensação de leveza e transparência. A forma de balão de chat deixa clara
 a natureza social do app; as bolhas de sabão dentro dele reforçam o nome
 e o conceito de "viver a sua bolha". Ver `assets/images/logo.svg`. 
-
-<img src="../assets/images/logo.png" width="300" alt="Logo">
+<p align="center">
+  <img src="../assets/images/logo.png" width="300" alt="Logo">
+</p>

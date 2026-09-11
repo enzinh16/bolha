@@ -71,3 +71,6 @@ e o conceito de "viver a sua bolha". Ver `assets/images/logo.svg`.
 <p align="center">
   <img src="../assets/images/logo.png" width="300" alt="Logo">
 </p>
+
+## 6. Link para o Figma
+🔗 https://www.figma.com/design/38aT0QTtkFo71ZaKE8XGIb/CP4?node-id=7-2&t=r9vnsEHf1n3dl786-1

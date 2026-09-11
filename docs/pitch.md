@@ -2,7 +2,7 @@
 
 ## Por que esse app existiria no mercado
 
-O Amino, principal app de comunidades por nicho da última década, está abandonado/descontinuado, e nenhum concorrente direto ocupou esse espaço da forma certa: Discord exige buscar o servidor por fora do app, e Reddit tem barreira de entrada alta para o público mais jovem e mais visual, além de diversas réplicas maus sucedidas do Amino (como: "Project Z").
+O Amino, principal app de comunidades por nicho da última década, está abandonado/descontinuado, e nenhum concorrente direto ocupou esse espaço da forma certa: Discord exige buscar o servidor por fora do app, e Reddit tem barreira de entrada alta para o público mais jovem e mais visual, além de diversas réplicas malsucedidos do Amino (como: "Project Z").
 Existe uma lacuna clara para um app **mobile-first, em português, com descoberta de comunidade como funcionalidade central**, não como algo secundário dentro de um app de propósito geral.
 
 ## Modelo de negócio

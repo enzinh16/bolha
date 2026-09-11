@@ -1,5 +1,5 @@
 name: bolha
-description: "A new Flutter project."
+description: "Bolha — rede social de comunidades por afinidade."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -87,3 +87,16 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  assets:
+    - assets/images/
+  
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+          weight: 700
+    
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter_18pt-ExtraBold.ttf
+          weight: 700

@@ -44,7 +44,7 @@ aBolha/
 │   |   ...
 |
 ├── assets/imagens                        
-│   ├── logo.jpg
+│   ├── logo.png
 |
 ├── docs/
 │   ├── doc-init.md       
